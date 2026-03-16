@@ -1,0 +1,29 @@
+📄 Requirements
+System (Arch/CachyOS)
+
+    python-gobject
+    gtk3
+    networkmanager
+    libappindicator-gtk3
+    speedtest-cli (optional)
+
+Python
+
+    pygobject-stubs
+
+🤝 Contributing
+Pull requests welcome! Please follow these steps:
+
+    Fork the repository
+    Create a feature branch (git checkout -b feature/AmazingFeature)
+    Commit your changes (git commit -m 'Add AmazingFeature')
+    Push to the branch (git push origin feature/AmazingFeature)
+    Open a Pull Request
+
+ file for details
+🙏 Credits
+Built with:
+
+    GTK3
+    NetworkManager
+    AppIndicator3
