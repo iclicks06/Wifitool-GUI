@@ -5,7 +5,7 @@ System (Arch/CachyOS)
     gtk3
     networkmanager
     libappindicator-gtk3
-    speedtest-cli (optional)
+    
 
 Python
 
